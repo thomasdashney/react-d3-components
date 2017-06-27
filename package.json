@@ -1,5 +1,5 @@
 {
-  "name": "react-d3-components",
+  "name": "@thomasdashney/react-d3-components",
   "version": "0.6.6",
   "description": "D3 components for React",
   "main": "lib/index.js",
